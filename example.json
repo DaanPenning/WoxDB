@@ -1,0 +1,29 @@
+{
+    "EMPLOYEES": {
+        "ID": {
+            "0": {
+                "FIRST_NAME": "Daan",
+                "LAST_NAME": "Penning",
+                "HIRE_DATE": "18102017"
+            },
+            "1" : {
+                "FIRST_NAME": "Frans",
+                "LAST_NAME": "Penning",
+                "HIRE_DATE": "29012005"
+            }
+        }
+    },
+    "CATEGORIES": {
+        "EMPLOYEE_CAT": {
+            "0": {
+                "SALERY": "1000"
+            },
+            "1": {
+                "SALERY": "1500"
+            },
+            "2": {
+                "SALERY": "2000"
+            }
+        }
+    }
+}

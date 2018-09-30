@@ -1,0 +1,11 @@
+{
+  "name": "woxdb",
+  "version": "1.0.0",
+  "description": "WoxDB is a relatable database management system build upon JavaScript",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Icarus BV",
+  "license": "MIT"
+}
